@@ -1,0 +1,16 @@
+{
+  "samples": [
+    {
+      "name": "kick",
+      "link": "https://cdn.freesound.org/previews/368/368647_5449658-lq.mp3"
+    },
+    {
+      "name": "hat",
+      "link": "https://cdn.freesound.org/previews/165/165027_2287151-lq.mp3"
+    },
+    {
+      "name": "snare",
+      "link": "https://cdn.freesound.org/previews/336/336703_3341148-lq.mp3"
+    }
+  ]
+}
