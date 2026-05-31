@@ -1,4 +1,3 @@
-  <script>
     const { createApp, ref, onMounted, onUnmounted } = Vue;
 
     // --- Configuration ---
@@ -1124,4 +1123,3 @@
         });
       });
     }
-  </script>
